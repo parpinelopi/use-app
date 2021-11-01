@@ -1,15 +1,15 @@
 import Header from "../components/Header"
 import Footer from "../components/Footer"
 
-const Homepage = () => {
+const SuggestArea = () => {
     return (
-        <div className ="homepage">
+        <div>
             <Header />
-            <h1>homepage</h1>
+            <h1>suggest area</h1>
             <Footer />
             
         </div>
     )
 }
 
-export default Homepage
+export default SuggestArea

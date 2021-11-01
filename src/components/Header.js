@@ -1,10 +1,10 @@
 const Header = () => {
     return (
         <div>
-            <header className = "mainHeader">
+            <header className="mainHeader">
                 Use app
             </header>
-            
+
         </div>
     )
 }

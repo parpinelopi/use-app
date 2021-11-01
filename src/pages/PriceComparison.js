@@ -1,15 +1,16 @@
 import Header from "../components/Header"
 import Footer from "../components/Footer"
 
-const Homepage = () => {
+
+const PriceComparison = () => {
     return (
-        <div className ="homepage">
+        <div>
             <Header />
-            <h1>homepage</h1>
+            <h1>price comparison</h1>
             <Footer />
             
         </div>
     )
 }
 
-export default Homepage
+export default PriceComparison
