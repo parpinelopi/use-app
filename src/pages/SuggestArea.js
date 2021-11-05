@@ -1,11 +1,13 @@
 import Header from "../components/Header"
 import Footer from "../components/Footer"
+import HousingMap from "../components/HousingMap"
 
 const SuggestArea = () => {
     return (
         <div>
             <Header />
-            <h1>suggest area</h1>
+            <HousingMap />
+            <h1>Suggested area</h1>
             <Footer />
             
         </div>

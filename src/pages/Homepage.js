@@ -5,7 +5,15 @@ const Homepage = () => {
     return (
         <div className ="homepage">
             <Header />
-            <h1>homepage</h1>
+
+            <body className="homepageBody">
+                <p>
+                    Welcome to our services, navigate through the menu 
+                    to compare the prices between immobile property 
+                    or if you wish to find property which is suitable according to your budget.
+                </p>
+            </body>
+        
             <Footer />
             
         </div>
